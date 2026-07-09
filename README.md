@@ -36,7 +36,7 @@
 
 # 👋 About Me
 
-<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="340" src="<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>"/>
 
 I'm **Jiban Budhathoki**, a passionate **Backend Engineer** from **Kathmandu, Nepal 🇳🇵**.
 
@@ -55,28 +55,6 @@ I enjoy building scalable backend systems, REST APIs, cloud-ready applications, 
 
 ---
 
-# 🚀 Current Focus
-
-I'm currently building an **Enterprise Restaurant Management System**.
-
-### Features
-
-- ✅ JWT Authentication
-- ✅ Refresh Tokens
-- ✅ Role-Based Authorization
-- ✅ Restaurant Registration
-- ✅ User Management
-- ✅ PostgreSQL
-- ✅ Redis Caching
-- ✅ Swagger Documentation
-- ✅ Docker Support
-- ✅ Feature-Based Architecture
-- ✅ Vertical Slice Architecture
-- ✅ Entity Framework Core
-- ✅ Fluent Validation
-- ✅ Rate Limiting
-
----
 
 # 🛠 Tech Stack
 
@@ -144,6 +122,8 @@ I'm currently building an **Enterprise Restaurant Management System**.
 
 ---
 
+
+
 # 🌱 Currently Learning
 
 - ☁️ Microsoft Azure
@@ -155,253 +135,6 @@ I'm currently building an **Enterprise Restaurant Management System**.
 
 ---
 
-# 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🍽️ Restaurant Management System
-
-Enterprise-grade Restaurant Management System built with **.NET 10**.
-
-#### Features
-
-- JWT Authentication
-- Refresh Tokens
-- Role Management
-- Restaurant Registration
-- PostgreSQL
-- Redis
-- Swagger
-- Docker
-- Vertical Slice Architecture
-
-**Tech**
-
-`ASP.NET Core` `PostgreSQL` `Redis` `.NET 10`
-
-</td>
-
-<td width="50%">
-
-### 🌐 Personal Portfolio
-
-Modern developer portfolio built with React & Next.js.
-
-#### Features
-
-- Responsive Design
-- Dark Mode
-- SEO Optimized
-- Projects Showcase
-- Experience Timeline
-- Contact Form
-
-**Tech**
-
-`Next.js`
-`React`
-`TypeScript`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### 🔐 Authentication Service
-
-Complete authentication solution.
-
-#### Features
-
-- JWT
-- Refresh Tokens
-- Email Verification
-- Password Reset
-- Role Based Authorization
-
-**Tech**
-
-`ASP.NET Core`
-
-</td>
-
-<td>
-
-### 📱 React Native Applications
-
-Cross-platform mobile applications.
-
-#### Features
-
-- Android
-- iOS
-- API Integration
-- Firebase
-- Push Notifications
-
-**Tech**
-
-`React Native`
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jibanbudhathoki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jibanbudhathoki&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibanbudhathoki&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jibanbudhathoki&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jibanbudhathoki&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 💻 Development Environment
-
-<table align="center">
-
-<tr>
-
-<td align="center">
-
-💻 **Editor**
-
-<br><br>
-
-VS Code
-
-Visual Studio
-
-</td>
-
-<td align="center">
-
-🖥️ **Operating System**
-
-<br><br>
-
-Ubuntu Linux
-
-Windows
-
-</td>
-
-<td align="center">
-
-⚡ **Backend**
-
-<br><br>
-
-ASP.NET Core
-
-Node.js
-
-</td>
-
-<td align="center">
-
-🗄️ **Database**
-
-<br><br>
-
-PostgreSQL
-
-Redis
-
-MongoDB
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Complete Enterprise Restaurant Management System
-- ☁️ Learn Azure Cloud
-- ☸️ Master Kubernetes
-- 🏗️ Build Microservices
-- 📚 Contribute to Open Source
-- 📝 Write Technical Articles
-- 🎥 Share Development Content
-- ⭐ Reach 500+ GitHub Contributions
-
----
-
-# 🔥 What I'm Working On
-
-```text
-📦 Restaurant Management System (.NET 10)
-
-├── JWT Authentication
-├── Restaurant Module
-├── User Management
-├── Employee Module
-├── Menu Module
-├── Order Module
-├── Inventory Module
-├── Billing Module
-├── Reporting
-└── Dashboard
-```
-
----
-
-# 📚 Currently Exploring
-
-- Distributed Systems
-- Event-Driven Architecture
-- Azure
-- Docker Swarm
-- Kubernetes
-- gRPC
-- RabbitMQ
-- Clean Architecture
-- Vertical Slice Architecture
-- Domain-Driven Design (DDD)
-
----
 
 # 🐍 Contribution Snake
 
@@ -461,17 +194,6 @@ MongoDB
 
 ---
 
-# 💡 Fun Facts
-
-- ☕ Coffee + Music = Productive Coding
-- 🚀 I enjoy designing scalable backend systems
-- 📦 Clean Architecture and Vertical Slice Architecture are my preferred patterns
-- 🐧 Linux is my daily development environment
-- 🌍 I enjoy learning new technologies and sharing knowledge
-
----
-
-# ❤️ Support My Work
 
 <p align="center">
 
