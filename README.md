@@ -62,15 +62,15 @@
 
 <table width="100%">
   <tr>
-    <td width="36%" valign="top" align="center">
+    <!-- <td width="36%" valign="top" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=jibanbudhathoki&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-    </td>
+    </td> -->
     <td width="28%" valign="top" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=jibanbudhathoki&theme=dark&hide_border=true" alt="GitHub Streak" />
     </td>
-    <td width="36%" valign="top" align="center">
+    <!-- <td width="36%" valign="top" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibanbudhathoki&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-    </td>
+    </td> -->
   </tr>
 </table>
 
