@@ -79,9 +79,79 @@ I enjoy building scalable backend systems, REST APIs, cloud-ready applications, 
 
 # 💻 Tech Stack
 
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 🚀 Backend
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=dotnet,cs,aspnet,nodejs,express,react,nextjs,typescript,tailwind,postgres,mongodb,mysql,redis,docker,linux,git,githubactions,nginx,vscode,visualstudio,postman,figma,azure&perline=8" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express" />
 </p>
+
+</td>
+
+<td align="center" width="33%">
+
+### 🎨 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,js" />
+</p>
+
+</td>
+
+<td align="center" width="33%">
+
+### 📱 Mobile
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react" />
+<br>
+<b>React Native</b>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🗄 Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+</p>
+
+</td>
+
+<td align="center">
+
+### ☁ DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions,nginx" />
+</p>
+
+</td>
+
+<td align="center">
+
+### 🛠 Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma" />
+</p>
+
+</td>
+
+</tr>
+</table>
+
+
+---
+
+
 # 🐍 Contribution Snake
 
 <p align="center">
