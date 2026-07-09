@@ -188,22 +188,6 @@ I enjoy building scalable backend systems, REST APIs, cloud-ready applications, 
 
 </p>
 
----
-
-
-<p align="center">
-
-If you like my projects, consider ⭐ starring my repositories.
-
-It motivates me to build more open-source software.
-
-</p>
-
----
-
-
-# 📫 Reach Me
-
 
 ---
 
@@ -214,7 +198,3 @@ It motivates me to build more open-source software.
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:6C63FF&height=120&section=footer"/>
-</p>
