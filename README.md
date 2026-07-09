@@ -5,46 +5,32 @@
     </td>
     <td valign="top" style="padding-left: 24px;">
       <h1>Hi there 👋 I'm <strong>Jiban Budhathoki</strong></h1>
-      <p><em>Senior Software Engineer, Full-Stack & React Native Developer from Nepal 🇳🇵</em></p>
-      <p>I am a highly skilled Full-Stack Engineer and Mid-Level DevOps Specialist passionate about building scalable web applications, cross-platform mobile apps, and reliable backend architecture.</p>
+      <p><em>Senior Software Engineer • Full-Stack & React Native Developer</em></p>
+      <p>Experienced in building scalable backend architecture, production-ready APIs, and polished frontend interfaces. I also deliver cross-platform mobile experiences and manage cloud-native deployments.</p>
       <p>
         <img src="https://img.shields.io/badge/Experience-5%2B%20Years-blue?style=for-the-badge&logo=appveyor" alt="Experience" />
-        <img src="https://img.shields.io/badge/Primary%20Stack-Node.js%20%7C%20.NET%20%7C%20React-blueviolet?style=for-the-badge&logo=node.js&logoColor=white" alt="Stack" />
-        <img src="https://img.shields.io/badge/Location-Kathmandu%2C%20Nepal-red?style=for-the-badge&logo=googlemaps" alt="Location" />
-        <img src="https://img.shields.io/badge/Role-Senior%20Software%20Engineer-1abc9c?style=for-the-badge" alt="Senior Software Engineer" />
+        <img src="https://img.shields.io/badge/Stack-Node.js%20%7C%20.NET%20%7C%20React-blueviolet?style=for-the-badge&logo=node.js&logoColor=white" alt="Stack" />
+        <img src="https://img.shields.io/badge/Location-Kathmandu%2C%20Nepal-red?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+      </p>
+      <p style="line-height:1.6;">
+        <strong>Contact</strong><br />
+        <a href="https://www.jibanbudhathoki.com.np" target="_blank">jibanbudhathoki.com.np</a><br />
+        <a href="mailto:jibanbudhathoki.co@gmail.com">jibanbudhathoki.co@gmail.com</a><br />
+        <a href="https://www.linkedin.com/in/jibanbudhathoki" target="_blank">linkedin.com/in/jibanbudhathoki</a>
       </p>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=70B7FF&background=0D1117&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer;Building+Backend+Systems+with+.NET+%26+Cloud;APIs+Designed+for+Scale+and+Security" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jibanbudhathoki&color=blue" alt="Profile views" />
-</p>
-
 ---
 
-## 🔎 About Me
-
-- Senior Software Engineer and Full-Stack Engineer with strong backend architecture and mobile app expertise
-- Mid-Level DevOps Specialist skilled in Linux server management, cloud deployments, and CI/CD automation
-- Experienced in robust backend systems with Node.js, Spring Boot, Laravel, .NET, and C#
-- Equipped for frontend engineering with React, Next.js, and React Native plus mobile development using Flutter, Swift, and Kotlin
-- Passionate about building scalable web applications, cross-platform mobile apps, and production-ready infrastructure
-
----
-
-## 🛠 Tech Stack
+## 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=asp.net&logoColor=white" alt="ASP.NET Core" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Full-Stack-007ACC?style=for-the-badge&logo=webflow&logoColor=white" alt="Full Stack" />
 </p>
 
 <p align="center">
@@ -58,6 +44,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
 <p align="center">
@@ -70,11 +57,39 @@
 
 ---
 
+## 💼 Skills
+
+- Full-stack product development with Node.js, React, Next.js, and .NET
+- Backend architecture and API design for scalable production systems
+- Cross-platform mobile apps with React Native and modern UI workflows
+- DevOps support with Linux server management, Docker, and CI/CD pipelines
+
+---
+
 ## ⭐ Featured Projects
 
-- **Restaurant Management System** — Backend platform with authentication, role management, and Redis cache.
-- **Personal Portfolio** — Modern React/Next.js portfolio site showcasing projects and experience.
-- **Authentication Service** — Secure JWT auth and refresh token service with role-based access.
+- **Restaurant Management System** — End-to-end restaurant platform with JWT auth, role management, Redis caching, and PostgreSQL.
+- **Personal Portfolio** — Modern React/Next.js portfolio site showcasing projects, experience, and live demos.
+- **Authentication Service** — Secure token-based auth service with refresh tokens and role-based access.
+
+---
+
+## 📊 GitHub Overview
+
+<table width="100%">
+  <tr>
+    <td width="35%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=jibanbudhathoki&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+    <td width="30%" valign="top" align="center">
+      <h3>🔥 Contribution Streak</h3>
+      <p style="font-size:28px; margin:0; color:#f97316;"><strong>35 days in a row</strong></p>
+    </td>
+    <td width="35%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibanbudhathoki&layout=compact&theme=dark" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -88,24 +103,12 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jibanbudhathoki&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibanbudhathoki&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.jibanbudhathoki.com.np" target="_blank">🌐 Website</a> &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jibanbudhathoki" target="_blank">💼 LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="mailto:softonicnpl@gmail.com" target="_blank">📧 Email</a>
+  <a href="mailto:jibanbudhathoki.co@gmail.com" target="_blank">📧 Email</a>
 </p>
 
 ---
