@@ -1,20 +1,28 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jibanbudhathoki&color=blue" alt="Profile views" />
-</p>
-
-<h1 align="center">Hi there 👋 I'm <strong>Jiban Budhathoki</strong></h1>
-<p align="center"><em>Senior Software Engineer from Nepal 🇳🇵</em></p>
+<table>
+  <tr>
+    <td width="180" valign="top">
+      <img src="https://github.com/jibanbudhathoki.png" alt="Jiban Budhathoki" width="180" style="border-radius: 24px; border: 3px solid #2563eb;" />
+    </td>
+    <td valign="top" style="padding-left: 24px;">
+      <h1>Hi there 👋 I'm <strong>Jiban Budhathoki</strong></h1>
+      <p><em>Senior Software Engineer from Nepal 🇳🇵</em></p>
+      <p>Building scalable backend systems, secure REST APIs, and cloud-native architecture with .NET and modern web technologies.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Experience-5%2B%20Years-blue?style=for-the-badge&logo=appveyor" alt="Experience" />
+        <img src="https://img.shields.io/badge/Primary%20Stack-.NET%20%7C%20C%23-purple?style=for-the-badge&logo=dotnet" alt="Stack" />
+        <img src="https://img.shields.io/badge/Location-Kathmandu%2C%20Nepal-red?style=for-the-badge&logo=googlemaps" alt="Location" />
+        <img src="https://img.shields.io/badge/Role-Senior%20Software%20Engineer-1abc9c?style=for-the-badge" alt="Senior Software Engineer" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=70B7FF&background=0D1117&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer;Building+Backend+Systems+with+.NET+%26+Cloud;APIs+Designed+for+Scale+and+Security" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-blue?style=for-the-badge&logo=appveyor" alt="Experience" />
-  <img src="https://img.shields.io/badge/Primary%20Stack-.NET%20%7C%20C%23-purple?style=for-the-badge&logo=dotnet" alt="Stack" />
-  <img src="https://img.shields.io/badge/Location-Kathmandu%2C%20Nepal-red?style=for-the-badge&logo=googlemaps" alt="Location" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-green?style=for-the-badge" alt="Open to Work" />
-  <img src="https://img.shields.io/badge/Role-Senior%20Software%20Engineer-1abc9c?style=for-the-badge" alt="Senior Software Engineer" />
+  <img src="https://komarev.com/ghpvc/?username=jibanbudhathoki&color=blue" alt="Profile views" />
 </p>
 
 ---
