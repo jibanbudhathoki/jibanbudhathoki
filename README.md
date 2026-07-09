@@ -91,36 +91,7 @@
 - **Personal Portfolio** — Modern React/Next.js portfolio site showcasing projects, experience, and live demos.
 - **Authentication Service** — Secure token-based auth service with refresh tokens and role-based access.
 
----
 
-## 📊 GitHub Overview
-
-<table width="100%">
-  <tr>
-    <td width="35%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=jibanbudhathoki&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Stats" />
-    </td>
-    <td width="30%" valign="top" align="center">
-      <h3>🔥 Contribution Streak</h3>
-      <p style="font-size:28px; margin:0; color:#f97316;"><strong>35 days in a row</strong></p>
-    </td>
-    <td width="35%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibanbudhathoki&layout=compact&theme=dark" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🌱 Currently Exploring
-
-- Kubernetes
-- Azure
-- Distributed Systems
-- Microservices
-- CI/CD
-
----
 
 ## 📫 Connect With Me
 
