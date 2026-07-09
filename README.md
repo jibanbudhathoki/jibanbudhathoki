@@ -1,11 +1,11 @@
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,100:2563EB&text=Jiban%20Budhathoki&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20•%20.NET%20Developer%20•%20Software%20Architect&descAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,100:2563EB&text=Jiban%20Budhathoki&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20•%20ASP.NET%20Core%20•%20.NET%20•%20React%20•%20React%20Native&descAlignY=60&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Engineer;ASP.NET+Core+Developer;Building+Scalable+REST+APIs;Clean+Architecture+Enthusiast;React+%7C+React+Native+Developer;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Engineer;ASP.NET+Core+%26+.NET+Developer;Building+Scalable+REST+APIs;Clean+Architecture+%26+Cloud+Ready+Applications;React+%26+React+Native+Developer;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:jibanbudhathoki.co@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -38,9 +38,9 @@
 
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I'm **Jiban Budhathoki**, a passionate **Backend Engineer** from **Kathmandu, Nepal 🇳🇵**.
+I'm **Jiban Budhathoki**, a **Backend Engineer** based in **Kathmandu, Nepal 🇳🇵**, specializing in **ASP.NET Core**, **.NET**, **React**, and **React Native**.
 
-I enjoy building scalable backend systems, REST APIs, cloud-ready applications, and modern web platforms that are clean, maintainable, and production-ready.
+I enjoy designing scalable backend systems, developing secure REST APIs, and building modern web and mobile applications with a strong focus on **Clean Architecture**, performance, and maintainability.
 
 ### 💼 What I Do
 
