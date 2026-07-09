@@ -29,37 +29,10 @@
 
 ## 🔎 About Me
 
-- Senior Software Engineer specializing in .NET, ASP.NET Core, and cloud-native systems
-- Passionate about building clean, scalable, and maintainable backend solutions
-- Leading backend architecture for a Restaurant Management System with JWT, Redis, PostgreSQL, and Swagger
+- Senior Software Engineer specializing in full-stack development with Node.js, .NET, and cloud-native systems
+- Passionate about building clean, scalable, and maintainable applications for web and API-first platforms
+- Experienced with backend architecture, REST APIs, authentication, caching, and developer workflows
 - Always exploring cloud, DevOps, and distributed systems
-
----
-
-## 🚀 Current Focus
-
-<table width="100%">
-  <tr>
-    <td width="45%" valign="top">
-      <strong>Restaurant Management System (RMS)</strong>
-      <ul>
-        <li>✅ .NET 8 + ASP.NET Core Minimal APIs</li>
-        <li>✅ PostgreSQL + Entity Framework Core</li>
-        <li>✅ JWT Authentication & Refresh Tokens</li>
-        <li>✅ Role-based Authorization</li>
-        <li>✅ Redis Caching</li>
-        <li>✅ Swagger & API documentation</li>
-      </ul>
-    </td>
-    <td width="55%" valign="top">
-      <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=asp.net&logoColor=white" alt="ASP.NET Core" />
-      <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/REDIS-A2231D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-      <img src="https://img.shields.io/badge/SWAGGER-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger" />
-      <img src="https://img.shields.io/badge/CLEAN%20ARCHITECTURE-000000?style=for-the-badge&logo=architecture" alt="Clean Architecture" />
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -70,6 +43,7 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Full-Stack-007ACC?style=for-the-badge&logo=webflow&logoColor=white" alt="Full Stack" />
 </p>
 
 <p align="center">
