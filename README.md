@@ -170,31 +170,48 @@ I enjoy building scalable backend systems, REST APIs, cloud-ready applications, 
 
 ---
 
-# 🤝 Let's Connect
+---
+
+<h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
 
 <a href="https://www.jibanbudhathoki.com.np">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-2563EB?style=for-the-badge&labelColor=1E293B"/>
 </a>
 
 <a href="https://www.linkedin.com/in/dev-jibannp">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge&labelColor=1E293B"/>
 </a>
 
 <a href="mailto:jibanbudhathoki.co@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Send_Email-EA4335?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/📧%20Email-Say%20Hello-EA4335?style=for-the-badge&labelColor=1E293B"/>
 </a>
 
 </p>
 
+<br>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jibanbudhathoki&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 ---
 
 <p align="center">
 
-### 🚀 "Code is not just what I write — it's how I solve problems."
+### 💭 Developer Philosophy
+
+> *"Code is not just what I write — it's how I solve problems."*
 
 </p>
 
 ---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,100:6C63FF"/>
+
+</p>
