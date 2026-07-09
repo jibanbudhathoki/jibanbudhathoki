@@ -5,8 +5,8 @@
     </td>
     <td valign="top" style="padding-left: 24px;">
       <h1>Hi there 👋 I'm <strong>Jiban Budhathoki</strong></h1>
-      <p><em>Senior Software Engineer & Full-Stack Developer from Nepal 🇳🇵</em></p>
-      <p>Building scalable web applications, backend APIs, and cloud-native solutions with Node.js, .NET, React, and modern infrastructure.</p>
+      <p><em>Senior Software Engineer, Full-Stack & React Native Developer from Nepal 🇳🇵</em></p>
+      <p>I am a highly skilled Full-Stack Engineer and Mid-Level DevOps Specialist passionate about building scalable web applications, cross-platform mobile apps, and reliable backend architecture.</p>
       <p>
         <img src="https://img.shields.io/badge/Experience-5%2B%20Years-blue?style=for-the-badge&logo=appveyor" alt="Experience" />
         <img src="https://img.shields.io/badge/Primary%20Stack-Node.js%20%7C%20.NET%20%7C%20React-blueviolet?style=for-the-badge&logo=node.js&logoColor=white" alt="Stack" />
@@ -29,10 +29,11 @@
 
 ## 🔎 About Me
 
-- Senior Software Engineer with full-stack expertise in Node.js, React, .NET, and cloud-native platforms
-- Building modern web applications, Mobile App, scalable APIs, and polished frontend experiences
-- Experienced in backend architecture, authentication, caching, CI/CD, and production-ready deployments
-- Always exploring distributed systems, microservices, and DevOps best practices
+- Senior Software Engineer and Full-Stack Engineer with strong backend architecture and mobile app expertise
+- Mid-Level DevOps Specialist skilled in Linux server management, cloud deployments, and CI/CD automation
+- Experienced in robust backend systems with Node.js, Spring Boot, Laravel, .NET, and C#
+- Equipped for frontend engineering with React, Next.js, and React Native plus mobile development using Flutter, Swift, and Kotlin
+- Passionate about building scalable web applications, cross-platform mobile apps, and production-ready infrastructure
 
 ---
 
