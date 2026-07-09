@@ -1,105 +1,523 @@
-<table>
-  <tr>
-    <td width="180" valign="top">
-      <img src="./profile.png" alt="Jiban Budhathoki" width="180" style="border-radius: 24px; border: 3px solid #2563eb;" />
-    </td>
-    <td valign="top" style="padding-left: 24px;">
-      <h1>Hi there 👋 I'm <strong>Jiban Budhathoki</strong></h1>
-      <p><em>Senior Software Engineer • Full-Stack & React Native Developer</em></p>
-      <p>Experienced in building scalable backend architecture, production-ready APIs, and polished frontend interfaces. I also deliver cross-platform mobile experiences and manage cloud-native deployments.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Experience-5%2B%20Years-blue?style=for-the-badge&logo=appveyor" alt="Experience" />
-        <img src="https://img.shields.io/badge/Stack-Node.js%20%7C%20.NET%20%7C%20React-blueviolet?style=for-the-badge&logo=node.js&logoColor=white" alt="Stack" />
-        <img src="https://img.shields.io/badge/Location-Kathmandu%2C%20Nepal-red?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-      </p>
-      <p style="line-height:1.6;">
-        <strong>Contact</strong><br />
-        <a href="https://www.jibanbudhathoki.com.np" target="_blank">jibanbudhathoki.com.np</a><br />
-        <a href="mailto:jibanbudhathoki.co@gmail.com">jibanbudhathoki.co@gmail.com</a><br />
-        <a href="https://www.linkedin.com/in/jibanbudhathoki" target="_blank">linkedin.com/in/jibanbudhathoki</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## � Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-4F46E5?style=for-the-badge&logo=asp.net&logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-</div>
-
-<div align="center" style="margin-top:12px;">
-  <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQL%20Server-DC2626?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/MongoDB-16A34A?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-B91C1C?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-</div>
-
-<div align="center" style="margin-top:12px;">
-  <img src="https://img.shields.io/badge/React-0EA5E9?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-14B8A6?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</div>
-
-<div align="center" style="margin-top:12px;">
-  <img src="https://img.shields.io/badge/React%20Native-38BDF8?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
-  <img src="https://img.shields.io/badge/Docker-2563EB?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-F59E0B?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-0EA5E9?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Nginx-22C55E?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-</div>
-
----
-
-## 📊 GitHub Overview
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=jibanbudhathoki&theme=dark&hide_border=true"
-        alt="GitHub Streak"
-      />
-    </td>
-  </tr>
-</table>
-
----
-
-## 💼 Skills
-
-- Full-stack product development with Node.js, React, Next.js, and .NET
-- Backend architecture and API design for scalable production systems
-- Cross-platform mobile apps with React Native and modern UI workflows
-- DevOps support with Linux server management, Docker, and CI/CD pipelines
-
----
-
-## ⭐ Featured Projects
-
-- **Restaurant Management System** — End-to-end restaurant platform with JWT auth, role management, Redis caching, and PostgreSQL.
-- **Personal Portfolio** — Modern React/Next.js portfolio site showcasing projects, experience, and live demos.
-- **Authentication Service** — Secure token-based auth service with refresh tokens and role-based access.
-
-
-
-## 📫 Connect With Me
+<!-- ========================= HEADER ========================= -->
 
 <p align="center">
-  <a href="https://www.jibanbudhathoki.com.np" target="_blank">🌐 Website</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/jibanbudhathoki" target="_blank">💼 LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="mailto:jibanbudhathoki.co@gmail.com" target="_blank">📧 Email</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,100:2563EB&text=Jiban%20Budhathoki&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20•%20.NET%20Developer%20•%20Software%20Architect&descAlignY=60&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Engineer;ASP.NET+Core+Developer;Building+Scalable+REST+APIs;Clean+Architecture+Enthusiast;React+%7C+React+Native+Developer;Open+Source+Learner" />
+</p>
+
+<p align="center">
+
+<a href="https://www.jibanbudhathoki.com.np">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dev-jibannp">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/jibanbudhathoki">
+<img src="https://img.shields.io/github/followers/jibanbudhathoki?label=Followers&style=for-the-badge"/>
+</a>
+
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=jibanbudhathoki&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
 </p>
 
 ---
 
-> "Code is not just what I write, it's how I solve problems."
+# 👋 About Me
 
+<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
+I'm **Jiban Budhathoki**, a passionate **Backend Engineer** from **Kathmandu, Nepal 🇳🇵**.
+
+I enjoy building scalable backend systems, REST APIs, cloud-ready applications, and modern web platforms that are clean, maintainable, and production-ready.
+
+### 💼 What I Do
+
+- 🔹 Backend Development with **ASP.NET Core & .NET**
+- 🔹 REST API Design
+- 🔹 Authentication & Authorization
+- 🔹 Database Design
+- 🔹 Clean Architecture
+- 🔹 Vertical Slice Architecture
+- 🔹 React & React Native Development
+- 🔹 DevOps & Docker
+
+---
+
+# 🚀 Current Focus
+
+I'm currently building an **Enterprise Restaurant Management System**.
+
+### Features
+
+- ✅ JWT Authentication
+- ✅ Refresh Tokens
+- ✅ Role-Based Authorization
+- ✅ Restaurant Registration
+- ✅ User Management
+- ✅ PostgreSQL
+- ✅ Redis Caching
+- ✅ Swagger Documentation
+- ✅ Docker Support
+- ✅ Feature-Based Architecture
+- ✅ Vertical Slice Architecture
+- ✅ Entity Framework Core
+- ✅ Fluent Validation
+- ✅ Rate Limiting
+
+---
+
+# 🛠 Tech Stack
+
+## Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express"/>
+
+</p>
+
+---
+
+## Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind"/>
+
+</p>
+
+---
+
+## Mobile
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<br>
+
+<b>React Native</b>
+
+</p>
+
+---
+
+## Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql"/>
+
+</p>
+
+---
+
+## DevOps & Cloud
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,linux,githubactions,nginx,git,azure"/>
+
+</p>
+
+---
+
+## 🧰 Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- ☁️ Microsoft Azure
+- ☸ Kubernetes
+- 🛰 Microservices
+- ⚡ Distributed Systems
+- 🔄 Event-Driven Architecture
+- 🚀 CI/CD Pipelines
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🍽️ Restaurant Management System
+
+Enterprise-grade Restaurant Management System built with **.NET 10**.
+
+#### Features
+
+- JWT Authentication
+- Refresh Tokens
+- Role Management
+- Restaurant Registration
+- PostgreSQL
+- Redis
+- Swagger
+- Docker
+- Vertical Slice Architecture
+
+**Tech**
+
+`ASP.NET Core` `PostgreSQL` `Redis` `.NET 10`
+
+</td>
+
+<td width="50%">
+
+### 🌐 Personal Portfolio
+
+Modern developer portfolio built with React & Next.js.
+
+#### Features
+
+- Responsive Design
+- Dark Mode
+- SEO Optimized
+- Projects Showcase
+- Experience Timeline
+- Contact Form
+
+**Tech**
+
+`Next.js`
+`React`
+`TypeScript`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🔐 Authentication Service
+
+Complete authentication solution.
+
+#### Features
+
+- JWT
+- Refresh Tokens
+- Email Verification
+- Password Reset
+- Role Based Authorization
+
+**Tech**
+
+`ASP.NET Core`
+
+</td>
+
+<td>
+
+### 📱 React Native Applications
+
+Cross-platform mobile applications.
+
+#### Features
+
+- Android
+- iOS
+- API Integration
+- Firebase
+- Push Notifications
+
+**Tech**
+
+`React Native`
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jibanbudhathoki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jibanbudhathoki&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibanbudhathoki&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jibanbudhathoki&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jibanbudhathoki&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 💻 Development Environment
+
+<table align="center">
+
+<tr>
+
+<td align="center">
+
+💻 **Editor**
+
+<br><br>
+
+VS Code
+
+Visual Studio
+
+</td>
+
+<td align="center">
+
+🖥️ **Operating System**
+
+<br><br>
+
+Ubuntu Linux
+
+Windows
+
+</td>
+
+<td align="center">
+
+⚡ **Backend**
+
+<br><br>
+
+ASP.NET Core
+
+Node.js
+
+</td>
+
+<td align="center">
+
+🗄️ **Database**
+
+<br><br>
+
+PostgreSQL
+
+Redis
+
+MongoDB
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Complete Enterprise Restaurant Management System
+- ☁️ Learn Azure Cloud
+- ☸️ Master Kubernetes
+- 🏗️ Build Microservices
+- 📚 Contribute to Open Source
+- 📝 Write Technical Articles
+- 🎥 Share Development Content
+- ⭐ Reach 500+ GitHub Contributions
+
+---
+
+# 🔥 What I'm Working On
+
+```text
+📦 Restaurant Management System (.NET 10)
+
+├── JWT Authentication
+├── Restaurant Module
+├── User Management
+├── Employee Module
+├── Menu Module
+├── Order Module
+├── Inventory Module
+├── Billing Module
+├── Reporting
+└── Dashboard
+```
+
+---
+
+# 📚 Currently Exploring
+
+- Distributed Systems
+- Event-Driven Architecture
+- Azure
+- Docker Swarm
+- Kubernetes
+- gRPC
+- RabbitMQ
+- Clean Architecture
+- Vertical Slice Architecture
+- Domain-Driven Design (DDD)
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jibanbudhathoki/jibanbudhathoki/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+# 💬 Random Dev Quote
+
+<p align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</p>
+
+---
+
+# 📈 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jibanbudhathoki&theme=tokyonight" />
+
+</p>
+
+<p align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jibanbudhathoki&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jibanbudhathoki&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jibanbudhathoki&theme=tokyonight&utcOffset=5.75"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.jibanbudhathoki.com.np">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dev-jibannp">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:jibanbudhathoki.co@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Send_Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Fun Facts
+
+- ☕ Coffee + Music = Productive Coding
+- 🚀 I enjoy designing scalable backend systems
+- 📦 Clean Architecture and Vertical Slice Architecture are my preferred patterns
+- 🐧 Linux is my daily development environment
+- 🌍 I enjoy learning new technologies and sharing knowledge
+
+---
+
+# ❤️ Support My Work
+
+<p align="center">
+
+If you like my projects, consider ⭐ starring my repositories.
+
+It motivates me to build more open-source software.
+
+</p>
+
+---
+
+# 📌 Favorite Technologies
+
+<p align="center">
+
+ASP.NET Core • .NET 10 • C# • PostgreSQL • Redis • Docker • React • React Native • Next.js • TypeScript • Linux • Azure
+
+</p>
+
+---
+
+# 📫 Reach Me
+
+<p align="center">
+
+🌍 **Website**  
+https://www.jibanbudhathoki.com.np
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/dev-jibannp
+
+📧 **Email**  
+jibanbudhathoki.co@gmail.com
+
+</p>
+
+---
+
+<p align="center">
+
+### 🚀 "Code is not just what I write — it's how I solve problems."
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:6C63FF&height=120&section=footer"/>
+</p>
