@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="180" valign="top">
-      <img src="https://github.com/jibanbudhathoki.png" alt="Jiban Budhathoki" width="180" style="border-radius: 24px; border: 3px solid #2563eb;" />
+      <img src="./profile.png" alt="Jiban Budhathoki" width="180" style="border-radius: 24px; border: 3px solid #2563eb;" />
     </td>
     <td valign="top" style="padding-left: 24px;">
       <h1>Hi there 👋 I'm <strong>Jiban Budhathoki</strong></h1>
@@ -30,7 +30,7 @@
 ## 🔎 About Me
 
 - Senior Software Engineer with full-stack expertise in Node.js, React, .NET, and cloud-native platforms
-- Building modern web applications, scalable APIs, and polished frontend experiences
+- Building modern web applications, Mobile App, scalable APIs, and polished frontend experiences
 - Experienced in backend architecture, authentication, caching, CI/CD, and production-ready deployments
 - Always exploring distributed systems, microservices, and DevOps best practices
 
