@@ -5,11 +5,11 @@
     </td>
     <td valign="top" style="padding-left: 24px;">
       <h1>Hi there 👋 I'm <strong>Jiban Budhathoki</strong></h1>
-      <p><em>Senior Software Engineer from Nepal 🇳🇵</em></p>
-      <p>Building scalable backend systems, secure REST APIs, and cloud-native architecture with .NET and modern web technologies.</p>
+      <p><em>Senior Software Engineer & Full-Stack Developer from Nepal 🇳🇵</em></p>
+      <p>Building scalable web applications, backend APIs, and cloud-native solutions with Node.js, .NET, React, and modern infrastructure.</p>
       <p>
         <img src="https://img.shields.io/badge/Experience-5%2B%20Years-blue?style=for-the-badge&logo=appveyor" alt="Experience" />
-        <img src="https://img.shields.io/badge/Primary%20Stack-.NET%20%7C%20C%23-purple?style=for-the-badge&logo=dotnet" alt="Stack" />
+        <img src="https://img.shields.io/badge/Primary%20Stack-Node.js%20%7C%20.NET%20%7C%20React-blueviolet?style=for-the-badge&logo=node.js&logoColor=white" alt="Stack" />
         <img src="https://img.shields.io/badge/Location-Kathmandu%2C%20Nepal-red?style=for-the-badge&logo=googlemaps" alt="Location" />
         <img src="https://img.shields.io/badge/Role-Senior%20Software%20Engineer-1abc9c?style=for-the-badge" alt="Senior Software Engineer" />
       </p>
@@ -29,10 +29,10 @@
 
 ## 🔎 About Me
 
-- Senior Software Engineer specializing in full-stack development with Node.js, .NET, and cloud-native systems
-- Passionate about building clean, scalable, and maintainable applications for web and API-first platforms
-- Experienced with backend architecture, REST APIs, authentication, caching, and developer workflows
-- Always exploring cloud, DevOps, and distributed systems
+- Senior Software Engineer with full-stack expertise in Node.js, React, .NET, and cloud-native platforms
+- Building modern web applications, scalable APIs, and polished frontend experiences
+- Experienced in backend architecture, authentication, caching, CI/CD, and production-ready deployments
+- Always exploring distributed systems, microservices, and DevOps best practices
 
 ---
 
