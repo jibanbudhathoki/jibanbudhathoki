@@ -1,59 +1,97 @@
 <p align="center">
-  <b>Hi there 👋 I'm <span style="color:#2ecc71">Jiban Budhathoki</span></b>
+  <img src="https://komarev.com/ghpvc/?username=jibanbudhathoki&color=blue" alt="Profile views" />
 </p>
 
-<p align="center">
-  <em>Backend Engineer from Nepal 🇳🇵</em>
-</p>
-
-<p align="center">
-  <strong>I build scalable backend systems, REST APIs, and modern web applications using .NET and cloud technologies.</strong>
-</p>
+<h1 align="center">Hi there 👋 I'm <strong>Jiban Budhathoki</strong></h1>
+<p align="center"><em>Backend Engineer from Nepal 🇳🇵</em></p>
+<p align="center">I build scalable backend systems, REST APIs, and modern web applications using .NET and cloud technologies.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-5%2B%20Years-blue?style=for-the-badge&logo=appveyor" alt="Experience" />
   <img src="https://img.shields.io/badge/Primary%20Stack-.NET%20%7C%20C%23-purple?style=for-the-badge&logo=dotnet" alt="Stack" />
   <img src="https://img.shields.io/badge/Location-Kathmandu%2C%20Nepal-red?style=for-the-badge&logo=googlemaps" alt="Location" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-green?style=for-the-badge" alt="Open to Work" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🔎 About Me
 
-- 💼 Full-stack engineer with 5+ years building backend and cloud-ready applications
-- ❤️ Passionate about backend engineering, clean architecture, and scalable systems
-- 🏗️ Focused on software architecture, maintainability, and performance
-- ☁️ Learning cloud, DevOps, and distributed systems
-- 📍 Kathmandu, Nepal
+```bash
+whoami
+```
+
+- Backend Engineer specializing in .NET, ASP.NET Core, and cloud-native systems
+- Passionate about building clean, scalable, and maintainable backend solutions
+- Currently building a Restaurant Management System with JWT, Redis, PostgreSQL, and Swagger
+- Always exploring cloud, DevOps, and distributed systems
+
+---
+
+## 🚀 Current Focus
+
+<table width="100%">
+  <tr>
+    <td width="45%" valign="top">
+      <strong>Restaurant Management System (RMS)</strong>
+      <ul>
+        <li>✅ .NET 8 + ASP.NET Core Minimal APIs</li>
+        <li>✅ PostgreSQL + Entity Framework Core</li>
+        <li>✅ JWT Authentication & Refresh Tokens</li>
+        <li>✅ Role-based Authorization</li>
+        <li>✅ Redis Caching</li>
+        <li>✅ Swagger & API documentation</li>
+      </ul>
+    </td>
+    <td width="55%" valign="top">
+      <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=asp.net&logoColor=white" alt="ASP.NET Core" />
+      <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/REDIS-A2231D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+      <img src="https://img.shields.io/badge/SWAGGER-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger" />
+      <img src="https://img.shields.io/badge/CLEAN%20ARCHITECTURE-000000?style=for-the-badge&logo=architecture" alt="Clean Architecture" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠 Tech Stack
 
-| Backend | Database | Frontend | Mobile | DevOps |
-|---|---|---|---|---|
-| ASP.NET Core | PostgreSQL | React | React Native | Docker |
-| .NET | SQL Server | Next.js |  | Linux |
-| C# | MongoDB | TypeScript |  | GitHub Actions |
-| Node.js | Redis |  |  | Nginx |
+<p align="center">
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-A2231D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+</p>
 
 ---
 
-## 💡 Current Project
+## ⭐ Featured Projects
 
-**Restaurant Management System**
-
-A modern, secure restaurant platform built with clean architecture and production-ready features.
-
-- JWT Authentication
-- Refresh Tokens
-- Role-based Authorization
-- Restaurant Registration
-- User Management
-- Redis Caching
-- PostgreSQL
-- Swagger
-- Clean Architecture
+- **Restaurant Management System** — Backend platform with authentication, role management, and Redis cache.
+- **Personal Portfolio** — Modern React/Next.js portfolio site showcasing projects and experience.
+- **Authentication Service** — Secure JWT auth and refresh token service with role-based access.
 
 ---
 
@@ -89,5 +127,6 @@ A modern, secure restaurant platform built with clean architecture and productio
 
 ---
 
-> "Code should be clean, scalable, and easy to maintain."
+> "Code is not just what I write, it's how I solve problems."
+
 
