@@ -56,74 +56,97 @@ I enjoy building scalable backend systems, REST APIs, cloud-ready applications, 
 ---
 
 
-# 🛠 Tech Stack
-
-## Backend
+# 📈 Profile Summary
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jibanbudhathoki&theme=tokyonight" />
+
+</p>
+
+<p align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jibanbudhathoki&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jibanbudhathoki&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jibanbudhathoki&theme=tokyonight&utcOffset=5.75"/>
 
 </p>
 
 ---
 
-## Frontend
+
+# 💻 Tech Stack
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 🚀 Backend
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind"/>
-
+<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express" />
 </p>
 
----
+</td>
 
-## Mobile
+<td align="center" width="33%">
+
+### 🎨 Frontend
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,js" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=react"/>
+</td>
 
+<td align="center" width="33%">
+
+### 📱 Mobile
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react" />
 <br>
-
 <b>React Native</b>
-
 </p>
 
----
+</td>
+</tr>
 
-## Database
+<tr>
+<td align="center">
+
+### 🗄 Database
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql"/>
-
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
 </p>
 
----
+</td>
 
-## DevOps & Cloud
+<td align="center">
+
+### ☁ DevOps
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,linux,githubactions,nginx,git,azure"/>
-
+<img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions,nginx" />
 </p>
 
----
+</td>
 
-## 🧰 Tools
+<td align="center">
+
+### 🛠 Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma"/>
-
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma" />
 </p>
 
----
+</td>
 
-
-
+</tr>
+</table>
 # 🌱 Currently Learning
 
 - ☁️ Microsoft Azure
@@ -149,26 +172,6 @@ I enjoy building scalable backend systems, REST APIs, cloud-ready applications, 
 <p align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</p>
-
----
-
-# 📈 Profile Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jibanbudhathoki&theme=tokyonight" />
-
-</p>
-
-<p align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jibanbudhathoki&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jibanbudhathoki&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jibanbudhathoki&theme=tokyonight&utcOffset=5.75"/>
 
 </p>
 
@@ -205,30 +208,9 @@ It motivates me to build more open-source software.
 
 ---
 
-# 📌 Favorite Technologies
-
-<p align="center">
-
-ASP.NET Core • .NET 10 • C# • PostgreSQL • Redis • Docker • React • React Native • Next.js • TypeScript • Linux • Azure
-
-</p>
-
----
 
 # 📫 Reach Me
 
-<p align="center">
-
-🌍 **Website**  
-https://www.jibanbudhathoki.com.np
-
-💼 **LinkedIn**  
-https://www.linkedin.com/in/dev-jibannp
-
-📧 **Email**  
-jibanbudhathoki.co@gmail.com
-
-</p>
 
 ---
 
