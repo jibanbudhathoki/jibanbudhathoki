@@ -125,8 +125,6 @@ I enjoy designing scalable backend systems, developing secure REST APIs, and bui
 
 </tr>
 </table>
-
-
 ---
 
 # 💬 Random Dev Quote
@@ -136,8 +134,6 @@ I enjoy designing scalable backend systems, developing secure REST APIs, and bui
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </p>
-
----
 
 ---
 
@@ -178,9 +174,3 @@ I enjoy designing scalable backend systems, developing secure REST APIs, and bui
 </p>
 
 ---
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,100:6C63FF"/>
-
-</p>
