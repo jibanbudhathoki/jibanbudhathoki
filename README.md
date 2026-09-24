@@ -55,28 +55,6 @@ I enjoy designing scalable backend systems, developing secure REST APIs, and bui
 
 ---
 
-
-# 📈 Profile Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jibanbudhathoki&theme=tokyonight" />
-
-</p>
-
-<p align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jibanbudhathoki&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jibanbudhathoki&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jibanbudhathoki&theme=tokyonight&utcOffset=5.75"/>
-
-</p>
-
----
-
-
 # 💻 Tech Stack
 
 <table align="center">
@@ -151,15 +129,6 @@ I enjoy designing scalable backend systems, developing secure REST APIs, and bui
 
 ---
 
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jibanbudhathoki/jibanbudhathoki/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
 # 💬 Random Dev Quote
 
 <p align="center">
@@ -184,7 +153,7 @@ I enjoy designing scalable backend systems, developing secure REST APIs, and bui
   <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge&labelColor=1E293B"/>
 </a>
 
-<a href="mailto:jibanbudhathoki.co@gmail.com">
+<a href="mailto:contactme@jibanbudhathoki.com.np">
   <img src="https://img.shields.io/badge/📧%20Email-Say%20Hello-EA4335?style=for-the-badge&labelColor=1E293B"/>
 </a>
 
