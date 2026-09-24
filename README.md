@@ -125,6 +125,7 @@ I enjoy designing scalable backend systems, developing secure REST APIs, and bui
 
 </tr>
 </table>
+
 ---
 
 # 💬 Random Dev Quote
